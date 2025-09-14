@@ -1,2 +1,3 @@
 # test-demo
-This is my first repository
+This is my first Repository.
+Author - Bappa Pal
